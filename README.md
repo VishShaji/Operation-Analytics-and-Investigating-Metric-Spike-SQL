@@ -46,8 +46,8 @@ This project demonstrates expertise in using SQL for operational analytics and i
 
 ## Screenshots
 
-![App Screenshot](https://github.com/VishShaji/Historical-Automobile-Sales-Dashboard-Dash-Plotly/blob/main/Assets/RecessionReportgraphs.png)
-![App Screenshot](https://github.com/VishShaji/Historical-Automobile-Sales-Dashboard-Dash-Plotly/blob/main/Assets/YearlyReportgraphs.png.png)
+![App Screenshot]()
+![App Screenshot]()
 
 ## License
 
