@@ -1,9 +1,7 @@
 
 # Operational Analytics and Investigating Metric Spikes
 
-## Description
-
-Led a team in leveraging advanced SQL skills to analyze various datasets and tables, deriving valuable insights for the company's operations.
+This project showcases the power of data analysis for optimizing business operations and investigating unexpected metric fluctuations. I have leveraged my SQL expertise to unlock valuable insights from various datasets and tables.
 
 ## Authors
 
@@ -30,7 +28,7 @@ The data source for this project is obtained from IBM during the IBM Data Analys
 - Language Share Analysis: Identified the percentage share of each programming language used in the past 30 days. This helps understand which languages are most common in the data.
 - Duplicate Rows Detection: This query identifies rows in the job_data table that are considered duplicates based on specific columns.
 
-## Part 1: Investigating Metric Spike
+## Part 2: Investigating Metric Spike
 
 - Weekly User Engagement: Tracked user activity on a weekly basis to understand user behavior and preferences.
 - User Growth Analysis: Analyzed user acquisition and growth over time to aid strategic planning.
