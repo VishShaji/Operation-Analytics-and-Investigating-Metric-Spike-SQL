@@ -1,5 +1,5 @@
 
-# Operational Analytics and Investigating Metric Spikes
+# Operational Analytics and Investigating Metric Spikes | SQL
 
 This project showcases the power of data analysis for optimizing business operations and investigating unexpected metric fluctuations. I have leveraged my SQL expertise to unlock valuable insights from various datasets and tables.
 
