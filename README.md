@@ -5,7 +5,7 @@ This project showcases the power of data analysis for optimizing business operat
 
 ## Authors
 
-- [@VishalShaji](https://www.github.com/VishShaji
+- [@VishalShaji](https://www.github.com/VishShaji)
 
 ## Tech Stack
 
