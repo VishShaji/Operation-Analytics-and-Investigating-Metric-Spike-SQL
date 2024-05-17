@@ -1,4 +1,4 @@
-
+![image](https://github.com/VishShaji/Operation-Analytics-and-Investigating-Metric-Spike-SQL/assets/147316305/d38dd948-ca92-442d-a2a6-ec9a20d21275)
 # Operational Analytics and Investigating Metric Spikes | SQL
 
 This project showcases the power of data analysis for optimizing business operations and investigating unexpected metric fluctuations. I have leveraged my SQL expertise to unlock valuable insights from various datasets and tables.
@@ -23,12 +23,36 @@ The data source for this project is obtained from IBM during the IBM Data Analys
 
 ## Part 1: Job Data Analysis
 
+### Dataset Information
+
+The dataset for the first part of the project involves a table named job_data with the following columns:
+
+- job_id: Unique identifier of jobs
+- actor_id: Unique identifier of actor
+- event: The type of event (decision/skip/transfer).
+- language: The Language of the content
+- time_spent: Time spent to review the job in seconds.
+- org: The Organization of the actor
+- ds: The date in the format yyyy/mm/dd (stored as text).
+
+### Data Analysis
+
 - Jobs Reviewed Over Time: Analyzed how many jobs were reviewed each hour for every day in November 2020. This helps understand workload distribution.
 - Throughput Analysis: Calculated the 7-day rolling average of events per second to identify trends over a weekly period, useful for strategic planning. Daily metrics provide real-time insights for operational decisions.
 - Language Share Analysis: Identified the percentage share of each programming language used in the past 30 days. This helps understand which languages are most common in the data.
 - Duplicate Rows Detection: This query identifies rows in the job_data table that are considered duplicates based on specific columns.
 
 ## Part 2: Investigating Metric Spike
+
+### Dataset Information
+
+The dataset involved in the Part 2 of the analysis contains three tables:
+
+- users: Contains one row per user, with descriptive information about that user’s account.
+- events: Contains one row per event, where an event is an action that a user has taken (e.g., login, messaging, search).
+- email_events: Contains events specific to the sending of emails.
+
+### Data Analysis
 
 - Weekly User Engagement: Tracked user activity on a weekly basis to understand user behavior and preferences.
 - User Growth Analysis: Analyzed user acquisition and growth over time to aid strategic planning.
