@@ -44,10 +44,6 @@ Faster identification and resolution of issues impacting key metrics.
 
 This project demonstrates expertise in using SQL for operational analytics and investigating metric spikes, a valuable skillset for any organization seeking to optimize business processes and make data-driven decisions.
 
-## Screenshots
-
-![App Screenshot]()
-![App Screenshot]()
 
 ## License
 
