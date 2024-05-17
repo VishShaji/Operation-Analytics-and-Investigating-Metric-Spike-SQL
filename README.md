@@ -1,4 +1,3 @@
-![image](https://github.com/VishShaji/Operation-Analytics-and-Investigating-Metric-Spike-SQL/assets/147316305/d38dd948-ca92-442d-a2a6-ec9a20d21275)
 # Operational Analytics and Investigating Metric Spikes | SQL
 
 This project showcases the power of data analysis for optimizing business operations and investigating unexpected metric fluctuations. I have leveraged my SQL expertise to unlock valuable insights from various datasets and tables.
