@@ -12,7 +12,7 @@ This project showcases the power of data analysis for optimizing business operat
 
 ## Data Source:
 
-The data source for this project is obtained from IBM during the IBM Data Analysis Professional certificate course.
+This project was one of the 8 projects to be done in my Data Analytics Internship. Data Source was provided by the company.
 
 ## Project Goals
 
